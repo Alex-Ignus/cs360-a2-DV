@@ -1,0 +1,80 @@
+{
+    "Matchs":{
+        "Arena":{ 
+            "Roles":{ 
+                "Assassin":{
+                    "count":15,
+                    "kcount":212
+                },
+                "Guardian":{
+                    "count":5,
+                    "kcount":220
+                },
+                "Hunter":{
+                    "count":15,
+                    "kcount":112
+                },
+                "Mage":{
+                    "count":10,
+                    "kcount":245
+                },
+                "Warrior":{
+                    "count":5,
+                    "kcount":245
+                },
+                "matchCount": 5
+            }
+
+        },
+        "Clash":{ 
+            "Roles":{ 
+                "Assassin":{
+                    "count":25,
+                    "kcount":326
+                },
+                "Guardian":{
+                    "count":15,
+                    "kcount":315
+                },
+                "Hunter":{
+                    "count":25,
+                    "kcount":345
+                },
+                "Mage":{
+                    "count":50,
+                    "kcount":360
+                },
+                "Warrior":{
+                    "count":10,
+                    "kcount":274
+                },
+                "matchCount": 15   
+
+        },
+        "Conquest":{ 
+            "Roles":{ 
+                "Assassin":{
+                    "count":15,
+                    "kcount":1069
+                },
+                "Guardian":{
+                    "count":20,
+                    "kcount":121
+                },
+                "Hunter":{
+                    "count":15,
+                    "kcount":1080
+                },
+                "Mage":{
+                    "count":30,
+                    "kcount":512
+                },
+                "Warrior":{
+                    "count":20,
+                    "kcount":333
+                },
+                "matchCount": 10
+        }
+
+    }
+}
